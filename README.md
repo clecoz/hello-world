@@ -1,2 +1,3 @@
 # hello-world
-tutorial exercises
+
+Hi. I am learning how to use GitHub
